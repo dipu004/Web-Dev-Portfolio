@@ -77,6 +77,7 @@ font-size: 85px;
 }
 .banner-profile-pic{
 width: 580px;
+border-radius: 50%;
 }
 .banner-content{
 max-width: 580px;
@@ -146,7 +147,7 @@ gap: 100px;
 .footer-column{
 width: 50%;
 }
-footer input[type="text"], input[type="Email"], input[type="textarea"]{
+footer input[type="text"], input[type="email"],input[type="textarea"],input[type="submit"]{
 height: 64px;
 border-radius: 5px;
 background-color: white;
@@ -156,8 +157,11 @@ padding: 10px 20px;
 margin-bottom: 24px;
 border: none;
  }
-.git{
-height: 26px;
-width: 26px;
+ .git{
+height: 27px;
+width: 27px;
 border-radius: 50%;
-}
+ }
+
+
+
