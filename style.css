@@ -147,7 +147,7 @@ gap: 100px;
 .footer-column{
 width: 50%;
 }
-footer input[type="text"], input[type="email"],input[type="textarea"],input[type="submit"]{
+footer input[type="text"], footer input[type="email"], footer input[type="textarea"]{
 height: 64px;
 border-radius: 5px;
 background-color: white;
