@@ -125,3 +125,34 @@ display: flex;
 display: flex;
 gap: 24px;
 }
+.experience-description, .experience-subtitle{
+color: #757575;
+}
+.experience-subtitl{
+font-size: 20px;
+font-weight: 600;
+margin-bottom: 0px;
+}
+.text-center{
+text-align: center;
+margin-top: 50px;
+}
+/* Footer styles */
+footer{
+padding:130px 230px;
+display: flex;
+gap: 100px;
+}
+.footer-column{
+width: 50%;
+}
+footer input[type="text"], input[type="Email"], input[type="textarea"]{
+height: 64px;
+border-radius: 5px;
+background-color: white;
+display: block;
+width: 100%;
+padding: 10px 20px;
+margin-bottom: 24px;
+border: none;
+ }
